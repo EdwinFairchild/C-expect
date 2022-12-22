@@ -1,0 +1,2 @@
+DEPRECATED! use 'adapter serial' not 'cmsis_dap_serial'
+Error: couldn't bind tcl to socket on port 6665: Address already in use
